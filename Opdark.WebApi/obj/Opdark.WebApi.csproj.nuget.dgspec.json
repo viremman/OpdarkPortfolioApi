@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Emmanuel.darko\\Viremman\\Projects\\.Net\\Web\\Opdark\\OpdarkPortfolio\\Opdark.WebApi\\Opdark.WebApi.csproj": {}
+    "C:\\Users\\Hatua20\\Desktop\\Opdark\\OpdarkPortfolioApi\\Opdark.WebApi\\Opdark.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Emmanuel.darko\\Viremman\\Projects\\.Net\\Web\\Opdark\\OpdarkPortfolio\\Opdark.WebApi\\Opdark.WebApi.csproj": {
+    "C:\\Users\\Hatua20\\Desktop\\Opdark\\OpdarkPortfolioApi\\Opdark.WebApi\\Opdark.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Emmanuel.darko\\Viremman\\Projects\\.Net\\Web\\Opdark\\OpdarkPortfolio\\Opdark.WebApi\\Opdark.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Hatua20\\Desktop\\Opdark\\OpdarkPortfolioApi\\Opdark.WebApi\\Opdark.WebApi.csproj",
         "projectName": "Opdark.WebApi",
-        "projectPath": "D:\\Emmanuel.darko\\Viremman\\Projects\\.Net\\Web\\Opdark\\OpdarkPortfolio\\Opdark.WebApi\\Opdark.WebApi.csproj",
-        "packagesPath": "C:\\Users\\emman\\.nuget\\packages\\",
-        "outputPath": "D:\\Emmanuel.darko\\Viremman\\Projects\\.Net\\Web\\Opdark\\OpdarkPortfolio\\Opdark.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\Hatua20\\Desktop\\Opdark\\OpdarkPortfolioApi\\Opdark.WebApi\\Opdark.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Hatua20\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hatua20\\Desktop\\Opdark\\OpdarkPortfolioApi\\Opdark.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\emman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hatua20\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -28,7 +28,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,6 +61,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

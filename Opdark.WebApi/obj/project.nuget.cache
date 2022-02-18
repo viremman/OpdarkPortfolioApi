@@ -1,15 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "n7tom1mAzbEUYz+GEDgaPOnRoEVVXP6SZ1kGtY9FanVpoB80o3/QTAmqZiQDnZ8ecQdrs452RWwa3Yf+mQ2ppw==",
+  "dgSpecHash": "EaqiH0jL4EBssigOl5wMnMvuYc1vN/fWVLiz8bCMq2JenceFFH31ubT9RY+7qEWssd9pyR/z0dIhJg9mV1gGyA==",
   "success": true,
-  "projectFilePath": "D:\\Emmanuel.darko\\Viremman\\Projects\\.Net\\Web\\Opdark\\OpdarkPortfolio\\Opdark.WebApi\\Opdark.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Hatua20\\Desktop\\Opdark\\OpdarkPortfolioApi\\Opdark.WebApi\\Opdark.WebApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\emman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\emman\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\emman\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\emman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\emman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\emman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\Hatua20\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Hatua20\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Hatua20\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Hatua20\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Hatua20\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Hatua20\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Hatua20\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }
